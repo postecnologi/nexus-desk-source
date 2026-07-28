@@ -1,3 +1,11 @@
+## NEXUS Desk
+
+Este repositorio es una **versión modificada** de [RustDesk](https://github.com/rustdesk/rustdesk) (licencia AGPLv3), personalizada por PosTecnologi como "NEXUS Desk": marca propia (ícono, nombre, colores) y servidor de conexión propio por defecto.
+
+Se publica el código fuente aquí para cumplir con los términos de la licencia AGPLv3, que exige que el código fuente de cualquier versión modificada distribuida al público esté disponible. El proyecto original y toda su documentación de compilación siguen aplicando tal como están más abajo.
+
+---
+
 <p align="center">
   <img src="res/logo-header.svg" alt="RustDesk - Your remote desktop"><br>
   <a href="#raw-steps-to-build">Build</a> •
